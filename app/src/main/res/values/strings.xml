@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"商家信息"</string>
+    <string name="shop_name">"爱车坊汽车音乐美容中心"</string>
+    <string name="shop_address">"地址：滨湖西路33-11"</string>
+    <string name="shop_phone">"电话：0711-3217562"</string>
+    <string name="shop_descrip">"专业汽车美容中心，满足您的一切汽车美容要求！"</string>
+</resources>
